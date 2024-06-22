@@ -20,6 +20,7 @@ public:
     }
 };
 
+//Example Testcase
 int main(){
     Solution sol;
     vector<int> nums = {2,2,2,1,2,2,1,2,2,2};
